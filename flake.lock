@@ -243,6 +243,22 @@
         "type": "github"
       }
     },
+    "kernel-clr": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1676551475,
+        "narHash": "sha256-rHco6uhewoa5KBG35oPcRjd/jHM9Bxdo38LDK15AJiw=",
+        "owner": "clearlinux-pkgs",
+        "repo": "linux",
+        "rev": "9dc237a47cf4c94a7b70d6df10c5ed6a748d5a99",
+        "type": "github"
+      },
+      "original": {
+        "owner": "clearlinux-pkgs",
+        "repo": "linux",
+        "type": "github"
+      }
+    },
     "mozilla": {
       "flake": false,
       "locked": {
@@ -424,11 +440,11 @@
     },
     "nixpkgs_6": {
       "locked": {
-        "lastModified": 1674641431,
-        "narHash": "sha256-qfo19qVZBP4qn5M5gXc/h1MDgAtPA5VxJm9s8RUAkVk=",
+        "lastModified": 1676721149,
+        "narHash": "sha256-mN2EpTGxxVNnFZLoLWRwh6f7UWhXy4qE+wO2CZyrXps=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "9b97ad7b4330aacda9b2343396eb3df8a853b4fc",
+        "rev": "5f4e07deb7c44f27d498f8df9c5f34750acf52d2",
         "type": "github"
       },
       "original": {
@@ -534,6 +550,7 @@
         "hercules-ci-agent": "hercules-ci-agent",
         "home-manager": "home-manager",
         "impermanence": "impermanence",
+        "kernel-clr": "kernel-clr",
         "nixinate": "nixinate",
         "nixos-hardware": "nixos-hardware",
         "nixpkgs": "nixpkgs_6",
